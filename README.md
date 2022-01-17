@@ -1,10 +1,10 @@
 # PHP-MYSQL-CRUD
 
-<img src="https://github.com/Haidar-JPR/PHP-MYSQL-CRUD/blob/master/assets/form_field.jpeg?raw=true" width="350" height="200">
+<img src="https://github.com/Haidar-JPR/PHP-MYSQL-CRUD/blob/master/assets/form_field.jpeg?raw=true" width="500" height="300">
 
 <br>
 
-<img src="https://github.com/Haidar-JPR/PHP-MYSQL-CRUD/blob/master/assets/data_person.jpeg?raw=true" width="350" height="200">
+<img src="https://github.com/Haidar-JPR/PHP-MYSQL-CRUD/blob/master/assets/data_person.jpeg?raw=true" width="500" height="300">
 
 This is crud system with php and mysql, not really good design
 
